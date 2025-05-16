@@ -10,6 +10,7 @@
         localStorage.setItem('academicMarks', JSON.stringify([]));
     }
 }
+//json is a javascript object notation
 
 // DOM elements
 const addStudentBtn = document.getElementById('addStudent');
